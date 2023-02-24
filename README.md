@@ -7,4 +7,4 @@ auxiliary loss. This allows BSpell to specialize in highly inflected Bengali voc
 hybrid pretraining scheme has been proposed for BSpell that combines word level and character level masking. Comparison on two
 Bengali and one Hindi spelling correction dataset shows the superiority of our proposed approach.
 
-[![DOI](https://zenodo.org/badge/544746084.svg)](https://zenodo.org/badge/latestdoi/544746084)
+[![DOI](https://zenodo.org/badge/606186668.svg)](https://zenodo.org/badge/latestdoi/606186668)
