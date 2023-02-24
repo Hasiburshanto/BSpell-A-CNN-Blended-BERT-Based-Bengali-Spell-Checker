@@ -1,0 +1,16 @@
+Run the "BERT Pre-train" folder files first in the following order:
+(1) Variables.py
+(2) data.py 
+(3) pretraining_sample.py 
+(4) model.py
+(5) genaretor.py
+(6) training.py
+Running the above files will produce pretrained model named "PreTrain_Model"
+
+Run the "BERT Fine-Tune" folder files next in the following order:
+(1) Variables.py
+(2) data.py 
+(3) training_validation_sample.py 
+(4) model.py
+(5) training.py
+Fine tuning BSpell saved model on "sample data.txt" and "error sample data.txt" parallel corpus 
