@@ -8,4 +8,5 @@ hybrid pretraining scheme has been proposed for BSpell that combines word level 
 Bengali and one Hindi spelling correction dataset shows the superiority of our proposed approach.
 
 Cite the code : [![DOI](https://zenodo.org/badge/606186668.svg)](https://zenodo.org/badge/latestdoi/606186668)
+
 Dataset : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7675570.svg)](https://doi.org/10.5281/zenodo.7675570)
