@@ -1,4 +1,4 @@
-# BSpell-A-CNN-Blended-BERT-Based-Bengali-Spell-Checker
+# BSpell: A CNN-Blended BERT Based Bengali Spell Checker
 Bengali typing is mostly performed using English keyboard and can be highly erroneous due to the presence of compound and
 similarly pronounced letters. Spelling correction of a misspelled word requires understanding of word typing pattern as well as the
 context of the word usage. A specialized BERT model named BSpell has been proposed in this paper targeted towards word for word
